@@ -1,1 +1,1 @@
-# 1_figma_website_free_template
+To easily open site [click here](https://soustypit.github.io/)
